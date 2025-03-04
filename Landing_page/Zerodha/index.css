@@ -1,0 +1,63 @@
+body{
+    background-color: #fff;
+    font-family: "fontello";
+    font-size: 16px;
+}
+.logo{
+    max-height: 17px;
+    vertical-align: middle;
+    position: relative;
+    top: 8px;
+    margin-left: 100px;
+    
+}
+.menu
+{
+    max-height: 40px;
+    vertical-align: middle;
+    position: relative;
+    top: -4px;
+    padding-left: 25px;
+    
+}
+
+.nav
+{
+    color:#666;
+    cursor: pointer;
+    padding-left: 10px;
+    font-family:"fontello";
+    font-size: .9rem;
+    display: inline-block;
+    padding: 20px;
+    padding-top: 25px;
+   
+}
+
+span:hover {
+    color: #387ed1
+}
+
+button:hover
+{
+    color: white;
+    background-color:black;
+    border-radius: 3px;
+    
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 30px;
+    padding: 10px 30px;
+    background-color: #387ed1;
+    color: #fff;
+    text-align: center;
+    font-size: 1.2em;
+    line-height: 1.2em;
+    font-weight: 500;
+    text-decoration: none;
+    white-space: nowrap;
+    cursor: pointer;
+    box-sizing: border-box;
+  }
